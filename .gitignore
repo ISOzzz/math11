@@ -1,0 +1,11 @@
+# Local QA, rendering, and dependency artifacts
+第一次模拟/qa_*
+第一次模拟/**/qa_*
+第一次模拟/自查_20260821/
+第一次模拟/.runtime_deps/
+**/__pycache__/
+*.py[cod]
+
+# Installers and temporary Office files
+GitHubCLI.msi
+~$*

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="252.283465pt" height="221.102362pt" viewBox="0 0 252.283465 221.102362" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-20T20:18:58.699327</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.5, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 221.102362 
+L 252.283465 221.102362 
+L 252.283465 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 35.602115 190.834622 
+L 249.283225 190.834622 
+L 249.283225 18.393677 
+L 35.602115 18.393677 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m517d639646" d="M 0 0 
+L 0 3 
+" style="stroke: #20252b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m517d639646" x="80.969393" y="190.834622" style="fill: #20252b; stroke: #20252b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20252b" x="80.969393" y="203.329935" transform="rotate(-0 80.969393 203.329935)">6</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m517d639646" x="203.915946" y="190.834622" style="fill: #20252b; stroke: #20252b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20252b" x="203.915946" y="203.329935" transform="rotate(-0 203.915946 203.329935)">7</text>
+     </g>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20252b" x="142.44267" y="215.989075" transform="rotate(-0 142.44267 215.989075)">最大连续工作天数/天</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <path d="M 35.602115 190.834622 
+L 249.283225 190.834622 
+" clip-path="url(#p7aafdadf6b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #d7dde5; stroke-opacity: 0.65; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_4">
+      <defs>
+       <path id="m44118a1b8f" d="M 0 0 
+L -3 0 
+" style="stroke: #20252b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m44118a1b8f" x="35.602115" y="190.834622" style="fill: #20252b; stroke: #20252b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #20252b" x="29.102115" y="193.832278" transform="rotate(-0 29.102115 193.832278)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <path d="M 35.602115 154.333777 
+L 249.283225 154.333777 
+" clip-path="url(#p7aafdadf6b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #d7dde5; stroke-opacity: 0.65; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m44118a1b8f" x="35.602115" y="154.333777" style="fill: #20252b; stroke: #20252b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #20252b" x="29.102115" y="157.331433" transform="rotate(-0 29.102115 157.331433)">100</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <path d="M 35.602115 117.832931 
+L 249.283225 117.832931 
+" clip-path="url(#p7aafdadf6b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #d7dde5; stroke-opacity: 0.65; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m44118a1b8f" x="35.602115" y="117.832931" style="fill: #20252b; stroke: #20252b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #20252b" x="29.102115" y="120.830587" transform="rotate(-0 29.102115 120.830587)">200</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <path d="M 35.602115 81.332086 
+L 249.283225 81.332086 
+" clip-path="url(#p7aafdadf6b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #d7dde5; stroke-opacity: 0.65; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m44118a1b8f" x="35.602115" y="81.332086" style="fill: #20252b; stroke: #20252b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #20252b" x="29.102115" y="84.329742" transform="rotate(-0 29.102115 84.329742)">300</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <path d="M 35.602115 44.83124 
+L 249.283225 44.83124 
+" clip-path="url(#p7aafdadf6b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #d7dde5; stroke-opacity: 0.65; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m44118a1b8f" x="35.602115" y="44.83124" style="fill: #20252b; stroke: #20252b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #20252b" x="29.102115" y="47.828896" transform="rotate(-0 29.102115 47.828896)">400</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 8.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20252b" x="9.794928" y="104.61415" transform="rotate(-90 9.794928 104.61415)">员工人数/人</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 45.314893 190.834622 
+L 116.623894 190.834622 
+L 116.623894 123.673066 
+L 45.314893 123.673066 
+z
+" clip-path="url(#p7aafdadf6b)" style="fill: #56b4e9; stroke: #ffffff; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 168.261446 190.834622 
+L 239.570447 190.834622 
+L 239.570447 45.926265 
+L 168.261446 45.926265 
+z
+" clip-path="url(#p7aafdadf6b)" style="fill: #d55e00; stroke: #ffffff; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 35.602115 190.834622 
+L 35.602115 18.393677 
+" style="fill: none; stroke: #707780; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 35.602115 190.834622 
+L 249.283225 190.834622 
+" style="fill: none; stroke: #707780; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; fill: #20252b" transform="translate(70.622323 109.127076)">184人</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; fill: #20252b" transform="translate(65.428573 118.185904)">(31.67%)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; fill: #20252b" transform="translate(193.568876 31.380275)">397人</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; fill: #20252b" transform="translate(188.375126 40.439103)">(68.33%)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 600; font-size: 10.5px; font-family: 'Microsoft YaHei', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20252b" x="142.44267" y="11.393677" transform="rotate(-0 142.44267 11.393677)">员工最大连续工作天数分布</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7aafdadf6b">
+   <rect x="35.602115" y="18.393677" width="213.68111" height="172.440945"/>
+  </clipPath>
+ </defs>
+</svg>

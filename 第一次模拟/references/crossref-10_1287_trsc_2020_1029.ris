@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Rijal, Arpan
+AU  - Bijvank, Marco
+AU  - Goel, Asvin
+AU  - de Koster, René
+TI  - Workforce Scheduling with Order-Picking Assignments in Distribution Facilities
+JO  - Transportation Science
+T2  - Transportation Science
+JA  - Transportation Science
+PY  - 2021
+VL  - 55
+IS  - 3
+SP  - 725
+EP  - 746
+DO  - 10.1287/trsc.2020.1029
+UR  - https://doi.org/10.1287/trsc.2020.1029
+N2  - Scheduling the availability of order pickers is crucial for effective operations in a distribution facility with manual order pickers. When order-picking activities can only be performed in specific time windows, it is essential to jointly solve the order picker shift scheduling problem and the order picker planning problem of assigning and sequencing individual orders to order pickers. This requires decisions regarding the number of order pickers to schedule, shift start and end times, break ti
+DB  - CrossRef
+ER  - 
